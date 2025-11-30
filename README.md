@@ -23,8 +23,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujithsukumaran123&show_icons=true&locale=en&layout=compact" alt="sujithsukumaran123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujithsukumaran123&show_icons=true&locale=en" alt="sujithsukumaran123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujithsukumaran123&" alt="sujithsukumaran123" /></p>
